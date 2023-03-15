@@ -3,6 +3,8 @@
 ### Hola 👋, soy Rocío. 
 ####  
 ![Fan la lógica 👩‍💻 la naturaleza🍃 y el mate 🧉 .](https://res.cloudinary.com/ddax6s8kd/image/upload/v1678845472/banner_bxcmyt.jpg)
+
+
 Fan la lógica 👩‍💻 la naturaleza🍃 y el mate 🧉
 
 Me formé como #fullstackdeveloper en el bootcamp SoyHenry y me siento cómoda desarrollando tanto Back-end como Front-end; pero sintiendo un particular entusiasmo por esto último. 
