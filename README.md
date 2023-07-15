@@ -2,10 +2,9 @@
 
 ### Hola 👋, soy Rocío. 
 ####  
-![Fan la lógica 👩‍💻 la naturaleza🍃 y el mate 🧉 .](https://res.cloudinary.com/ddax6s8kd/image/upload/v1678845472/banner_bxcmyt.jpg)
+![Fan de la lógica 👩‍💻 la naturaleza🍃 y el mate 🧉 .](https://res.cloudinary.com/ddax6s8kd/image/upload/v1678845472/banner_bxcmyt.jpg)
 
 
-Fan la lógica 👩‍💻 la naturaleza🍃 y el mate 🧉
 
 Me formé como #fullstackdeveloper en el bootcamp SoyHenry y me siento cómoda desarrollando tanto Back-end como Front-end; pero sintiendo un particular entusiasmo por esto último. 
 Me gusta trabajar en productos digitales dónde el concepto, la funcionalidad y los diseños, se combinan perfectamente para crear experiencias e historias de usuarios agradables.
