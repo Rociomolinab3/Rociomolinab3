@@ -1,8 +1,8 @@
 
 
-### Hola 👋, soy Rocío. 
+### Hola, soy Rocío👩‍💻🧉. 
 ####  
-![Fan de la lógica 👩‍💻 la naturaleza🍃 y el mate 🧉 .](https://res.cloudinary.com/ddax6s8kd/image/upload/v1678845472/banner_bxcmyt.jpg)
+(https://res.cloudinary.com/ddax6s8kd/image/upload/v1678845472/banner_bxcmyt.jpg)
 
 
 
