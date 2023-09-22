@@ -2,7 +2,6 @@
 
 ### Hola, soy Rocío👩‍💻🧉. 
 ####  
-(https://res.cloudinary.com/ddax6s8kd/image/upload/v1678845472/banner_bxcmyt.jpg)
 
 
 
