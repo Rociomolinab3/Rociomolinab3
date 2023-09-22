@@ -17,5 +17,4 @@ Habilidades técnicas
 
 Puedes contactarme 
 Gmail: rociomolina.b7@gmail.com 
-Linkedin: https://www.linkedin.com/in/roc%C3%ADo-bel%C3%A9n-molina-99661b78/
 
