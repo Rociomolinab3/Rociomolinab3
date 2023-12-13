@@ -9,7 +9,7 @@ Me formé como #fullstackdeveloper en el bootcamp SoyHenry y me siento cómoda d
 Me gusta trabajar en productos digitales dónde el concepto, la funcionalidad y los diseños, se combinan perfectamente para crear experiencias e historias de usuarios agradables.
 
 Tengo experiencia trabajando con metodologías ágiles y considero uno de mis puntos fuertes la comunicación asertiva y el trabajo en equipo 🗣
-Por último pero no menos importante, tengo afición por las estadísticas y finanzas 📊
+Por último pero no menos importante, estduio administraciòn bancaria, teniendo afición por las estadísticas y finanzas 📊
 
 Habilidades técnicas 
  #javascript, #React, #Redux, #Express, #SQL, #NodeJs, #Sequelize, #html, #css, herramientas y librerìas de diseño como #Tailwind, #Bootstrap, #MaterialUI
