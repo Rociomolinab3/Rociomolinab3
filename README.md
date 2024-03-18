@@ -10,7 +10,7 @@ Por último pero no menos importante, estudio administración bancaria, teniendo
 
 Me encuentro trabajando y aprendiendo constantemente hace ya mas de un año como Desarrolladora Jr.
 Habilidades técnicas 
- #Javascript, #React, #Redux, #Express, #SQL, #NodeJs, #Next,  #Sequelize, #HTML, #CSS, herramientas y librerías de diseño como #Tailwind, #Bootstrap, #MaterialUI 
+ #Javascript, #React, #Redux, #Express, #SQL, #NodeJs, #NextJS,  #Sequelize, #HTML, #CSS, herramientas y librerías de diseño como #Tailwind, #Bootstrap, #MaterialUI 
 
 Puedes contactarme 
 Gmail: rociomolina.b7@gmail.com
