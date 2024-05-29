@@ -2,7 +2,7 @@
 
 ### Hola, soy Rocío👩‍💻🧉. 
 
-Me formé como #FullstackDeveloper en el bootcamp SoyHenry y me siento cómoda desarrollando tanto Back-end como Front-end; pero sintiendo un particular entusiasmo por esto último. 
+Me formé como #FullstackDeveloper y me siento cómoda desarrollando tanto Back-end como Front-end; pero sintiendo un particular entusiasmo por esto último. 
 Me gusta trabajar en productos digitales dónde el concepto, la funcionalidad y los diseños, se combinan perfectamente para crear experiencias e historias de usuarios agradables.
 
 Tengo experiencia trabajando con metodologías ágiles y considero uno de mis puntos fuertes la comunicación asertiva y el trabajo en equipo 🗣
